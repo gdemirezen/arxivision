@@ -1,0 +1,6 @@
+google-adk==1.18.0
+arxiv
+requests
+python-dotenv
+google-generativeai
+markdown
