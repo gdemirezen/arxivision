@@ -1,6 +1,8 @@
 # ARXIVISION - AI-Powered Academic Intelligence Multi-Agent System
 
-This system uses a team of AI agents to search for recent academic papers, summarize them, and email a report to the user.
+![ARXIVISION](images/arxivision.png) 
+
+ARXIVISION uses a team of AI agents to search for recent academic papers, summarize them, and email a report to the user.
 
 ## Features
 - **OpenAlex Search**: Finds papers from the last week using the OpenAlex API.
